@@ -1,0 +1,21 @@
+{% extends 'admin/base_site.html' %}
+{% load static %}
+
+{% block branding %}
+    <h1 id="head">
+        <img src="{% static 'admin/mw.png' %}" alt=" Virtual Doctor Admin"
+            height="50", width="50", class="brand_img"> Virtual Doctor Admin 
+
+
+    </h1>
+
+
+{% endblock branding %}
+
+
+{%  block extrastyle %}
+    <link rel="stylesheet" href="{% static 'admin/admin.css' %}">
+
+
+
+{%  endblock extrastyle %}
