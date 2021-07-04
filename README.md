@@ -21,3 +21,6 @@ make a new environment(recommended) and run...
 
 
 ### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
+
+for kind Information I removed pre-trained data and model file...
+if you need complete project contract with me at monad.wizard.r@gmail.com 
