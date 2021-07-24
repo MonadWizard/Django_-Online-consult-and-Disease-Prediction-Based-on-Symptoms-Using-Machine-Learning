@@ -1,5 +1,6 @@
 ### General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
 
+### [Demo Video](https://youtu.be/DyK2RyYWUFo)
 
 # How To Use This
 First make sure PostgreSQL and pgadmin is install in your system.
